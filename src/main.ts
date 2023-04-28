@@ -23,6 +23,15 @@ function delayedHello(
   );
 }
 
+function doSomething(what:string){
+  while (true){
+    var  i = b+c;
+  }
+}
+
+
+
+
 // Please see the comment in the .eslintrc.json file about the suppressed rule!
 // Below is an example of how to use ESLint errors suppression. You can read more
 // at https://eslint.org/docs/latest/user-guide/configuring/rules#disabling-rules
